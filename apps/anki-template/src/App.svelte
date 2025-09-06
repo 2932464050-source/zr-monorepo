@@ -1,5 +1,5 @@
 <script>
-  import Index from "./pages/Main/Index.svelte";
+  import TEMp from "./pages/MCQs/Back.svelte";
   import { onMount } from "svelte";
   onMount(() => {
     document.querySelectorAll('link[rel="stylesheet"]').forEach((link) => {
